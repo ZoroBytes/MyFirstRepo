@@ -18,14 +18,17 @@ if 1_000_000 <= a <= 3_000_000 and b == "viceadmiral" and c == "fleet":
     elif d == "Po":
         print("Fleet is Pomsky")
 
-elif a == 3_000_000_000 and b == "admiral" and c == "fleet":
-    if z == "light":
+elif a == 3_000_000_000 and b == "admiral":
+    if z == "light fruit":
         print("Admiral is Kizaru")
-    elif z == "gravity":
+    elif z == "gravity fruit":
         print("Admiral is Fujitora")
 
-elif a == 5_000_000_000 and b == "admiral" and c == "fleet" and z == "magma":
+elif a == 5_000_000_000 and b == "admiral" 
+    if z == "magma fruit":
     print("Admiral is Akainu")
+    elif z=="short fruit"
+    print("Muskan D. Rawat")
 
 elif b == "strawhatpirates" and e.lower() == "captain":
     print("Pirate King (Monkey D. Luffy) uses Sun God fruit with the bounty of an Yonko of 3 billion berries")
