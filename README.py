@@ -1,4 +1,3 @@
-#It is just a basic code about one piece and show the character names based on bounties and chacter names,speciality,danger level etc.
 a = int(input("Enter the bounty of your character: "))
 b = input("Enter the danger level of character: ").lower()
 c = input("Enter the category of character: ").lower()
@@ -24,11 +23,11 @@ elif a == 3_000_000_000 and b == "admiral":
     elif z == "gravity fruit":
         print("Admiral is Fujitora")
 
-elif a == 5_000_000_000 and b == "admiral" 
+elif a == 5_000_000_000 and b == "admiral":
     if z == "magma fruit":
-    print("Admiral is Akainu")
-    elif z=="short fruit"
-    print("Muskan D. Rawat")
+        print("Admiral is Akainu")
+    elif z=="short fruit":
+        print("Muskan D. Rawat")
 
 elif b == "strawhatpirates" and e.lower() == "captain":
     print("Pirate King (Monkey D. Luffy) uses Sun God fruit with the bounty of an Yonko of 3 billion berries")
@@ -64,4 +63,3 @@ else:
     print("Character not found. Check inputs.")
 
 print(a, b, c, d, z, e)
-    
