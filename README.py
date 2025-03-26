@@ -39,7 +39,7 @@ elif a == 5_000_000_000 and b == "admiral":
         print("No matching Admiral found.")
 
 # Straw Hat Pirates
-elif b == "strawhatpirates":
+elif 1000<=a<=3_000_000_000 and b == "strawhatpirates" and c=="pirate":
     if e == "captain":
         print("Pirate King (Monkey D. Luffy) uses Sun God fruit with a Yonko bounty of 3 billion berries.")
     elif e == "swordsman":
